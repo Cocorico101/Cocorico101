@@ -5,6 +5,8 @@
 
 Here are some ideas to get you started:
 
+
+--># 💫 About Me: Hey! I'm Mai, I am interested in cybersec, software dev and embedded system. I like to read books and drink coffee at Higher Ground. 
 - 🔭 I’m currently working on my 2nd degree in Comp Sci <br>
 - 🌱 I’m currently learning cybersecurity, software development and embedded systems. 
 - 👯 I’m looking to collaborate on projects related to what I am learning
@@ -13,7 +15,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: LinkedIn
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I have a degree in Microbiology before I pursue Comp Sci. 
---># 💫 About Me: Hey! I'm Mai, I am interested in cybersec, software dev and embedded system. I like to read books and drink coffee at Higher Ground. 
 
 
 
