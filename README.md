@@ -6,9 +6,9 @@
 Here are some ideas to get you started:
 
 
---># 💫 About Me: Hey! I'm Mai, I am interested in cybersec, software dev and embedded system. I like to read books and drink coffee at Higher Ground. 
+--># 💫 About Me: Hey! I'm Mai, I am interested in software dev, web dev, and embedded system. I like to read books and drink coffee at Higher Ground. 
 - 🔭 I’m currently working on my 2nd degree in Comp Sci <br>
-- 🌱 I’m currently learning cybersecurity, software development and embedded systems. 
+- 🌱 I’m currently learning web development, software development and embedded systems. 
 - 👯 I’m looking to collaborate on projects related to what I am learning
 - 🤔 I’m looking for help with finding a starter role in the tech industry
 - 💬 Ask me about ...
